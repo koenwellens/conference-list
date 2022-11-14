@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.conference-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+
+.conference-grid__label {
+    min-width: 4rem;
+    margin-right: 1rem;
+    font-weight: bold;
+}
+
+.conference-grid__value {
+    min-width: 35rem;
+    margin: 0;
+}
