@@ -1,0 +1,4 @@
+title: A conference list
+description: A list of conferences that stays longer than 90 days :-)
+markdown: kramdown
+theme: architect

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Public conference list
 
 ## 2023
