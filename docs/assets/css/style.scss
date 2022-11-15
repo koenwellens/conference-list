@@ -8,6 +8,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     align-items: flex-start;
+    max-width: 40rem;
 }
 
 .conference-grid__label {
@@ -18,5 +19,5 @@
 
 .conference-grid__value {
     min-width: 35rem;
-    margin: 0;
+    margin: auto;
 }
